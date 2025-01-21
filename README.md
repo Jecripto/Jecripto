@@ -1,10 +1,17 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0353c4&center=true&vCenter=true&random=false&width=700&lines=Seja+Bem+Vindo+ao+Meu+Perfl+" alt="Typing SVG">
+  </a>
+</div>
+
+
 # 👩🏻‍💻 Jeferson Ayres
 
 <br/>
 
 
 
-Me chamo Jeferson Ayres, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Etec, com o curso técnico em Análise de Desenvolvimento de Sistemas. Atualmente, conclui o curso de manipulação de dados em Linux, estou cursando CyberSegurança dos Hacker do Bem e pretendo fazer faculdade de Desenvolvimento de Sistemas na FIAP. Gosto de aprender sobre tecnologia e explorar minhas capacidades ao limite.   
+Me chamo Jeferson Ayres, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Etec, com o curso técnico em Análise de Desenvolvimento de Sistemas. Atualmente, conclui o curso de manipulação de dados em Linux, estou cursando CyberSegurança dos Hacker do Bem e pretendo fazer faculdade de Desenvolvimento de Sistemas na FIAP. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho vontade de aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 <p align="left">
     <a href="https://www.google.com/maps/place/S%C3%A3o+Paulo,+SP/@-23.6220317,-46.7010426,10z/data=!4m6!3m5!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5557714!4d-46.6395571!16zL20vMDIycGZt?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D">
@@ -140,7 +147,7 @@ Me chamo Jeferson Ayres, tenho 18 anos e sou natural de São Paulo. Concluí o e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jecripto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
